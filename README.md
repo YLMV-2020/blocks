@@ -8,4 +8,4 @@ Por ello el jugador debe arrastrar la bola hasta el final y evitando que los ene
 * El jugador gana cuando inserta la bola al punto final del laberinto
 * El jugador pierde cuando se queda sin vida
 
-![alt text](https://github.com/YLMV-2020/blocks/blob/unreal4/unreal4.png)
+![alt text](https://github.com/YLMV-2020/blocks/blob/unreal4/unreal4.27.png)
