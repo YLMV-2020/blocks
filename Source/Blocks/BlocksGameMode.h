@@ -14,7 +14,5 @@ class ABlocksGameMode : public AGameModeBase
 
 public:
 	ABlocksGameMode();
+	float lifeCharacter = 75.5f;
 };
-
-
-
